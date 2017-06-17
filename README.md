@@ -1,4 +1,4 @@
 # learngit
 learn git
 
-hello world
+hello git and world
